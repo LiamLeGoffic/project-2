@@ -1,0 +1,39 @@
+
+body {
+    background-image: url("../images/tent-5441144_1280.jpg");
+    background-size: 960px 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 960px;
+    overflow-x: hidden;
+    margin: 0 auto !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: #A74482 !important;
+    line-height: 1.1 !important;
+}
+
+.A74482-color-font {
+    color: #A74482 !important;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+/*
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    width: 950.4px;
+    border-radius: 10px;
+    font-size: 20px;
+    z-index: 1000;
+    display: flex;
+    justify-content: flex-start;
+}
+*/
+
